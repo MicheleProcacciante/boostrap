@@ -1,0 +1,6 @@
+.container{
+	padding-top: 120px;
+}
+body{
+	background: linear-gradient(rgba(7,119,75,.6) rgba(7,16,119,.6)), url('../images/torta3.jpg') no-repeat center/cover;
+}
